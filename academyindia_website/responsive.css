@@ -2,7 +2,7 @@
    ACADEMYINDIA - RESPONSIVE STYLESHEET
    Mobile-First Responsive Design
    ============================================ */
-html body{
+html, body{
     overflow-x: hidden;
 }
 /* ===== Extra Large Screens ===== */
@@ -952,7 +952,7 @@ html body{
     }
     .feature-card
     {
-        width: 340px;
+        width: 345px;
     }
 }
 
