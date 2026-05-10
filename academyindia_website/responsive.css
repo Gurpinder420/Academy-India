@@ -946,13 +946,13 @@ html body{
         /* border: 2px solid red; */
         display: flex;
         flex-direction: column;
-        width: 360px;
+        width: 340px;
         margin-left: auto;
         margin-right: auto;
     }
     .feature-card
     {
-        width: 360px;
+        width: 340px;
     }
 }
 
